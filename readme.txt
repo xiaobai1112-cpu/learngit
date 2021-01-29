@@ -5,4 +5,4 @@ Git tracks changes of files.
 This is first PUSH!!
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
-
+merge。
