@@ -10,7 +10,11 @@ Desktop.ini
 dist
 build
 
-#排出所有.开头的文件
+# 排出所有.开头的文件
 .*
-#排出所有.class文件
+# 排出所有.class文件
 *.class
+
+# 不排除.gitignore和APP.class
+!.gitignore
+!APP.class
