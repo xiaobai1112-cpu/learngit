@@ -6,3 +6,6 @@ This is first PUSH!!
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 merge。
+no.
+shoudong.
+end.
