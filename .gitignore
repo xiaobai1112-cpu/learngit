@@ -1,0 +1,16 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+#排出所有.开头的文件
+.*
+#排出所有.class文件
+*.class
